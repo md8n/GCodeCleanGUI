@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:viewModels="clr-namespace:GUI.ViewModels"
              x:Class="GUI.Views.AboutPage"
+             x:DataType="viewModels:AboutViewModel"
              Title="About">
     <ContentPage.BindingContext>
         <viewModels:AboutViewModel />
