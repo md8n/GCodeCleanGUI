@@ -147,6 +147,9 @@
 	  <MauiXaml Update="Views\CleanPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Views\MergePage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\SplitPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
